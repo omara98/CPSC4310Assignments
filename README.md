@@ -1,4 +1,4 @@
-# CPSC4310Assignments
+# Evaluate20Newsgroups
 Coding assignments for CPSC 4310 - Stat Methods and Machine Learning
 
 Newsgroups_LR : 20 Newsgroups dataset evaluated using logistic regression  
